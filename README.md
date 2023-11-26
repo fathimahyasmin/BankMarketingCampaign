@@ -47,3 +47,7 @@ Ensuring the accuracy of our model is crucial to avoid the financial repercussio
 | **False Positive / Type 1 Error**  |This occurs when the model incorrectly predicts that a customer will invest in a term deposit when they actually will not. In other words, the model's prediction is positive (1), but the true value is negative (0)| The bank will incur unnecessary marketing expenses by targeting customers who are not interested in investing in term deposits.|
 | **False Negative / Type 2 Error**  |This happens when the model incorrectly predicts that a customer will not invest in a term deposit when they actually will. Here, the model's prediction is negative (0), but the true value is positive (1)| The bank will miss out on potential profits from customers who are likely to invest in term deposits.| 
 
+### **Deploy on Streamlit**
+https://bankcampaigncustomerclassification.streamlit.app/
+
+![streamlit](https://github.com/fathimahyasmin/BankMarketingCampaign/assets/98755582/7c5f189e-890c-4664-837a-70f2e11b1a7c)
